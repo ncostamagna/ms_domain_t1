@@ -1,7 +1,8 @@
-package domain
+package ms_domain
 
 import (
 	"time"
+
 	"github.com/google/uuid"
 	"gorm.io/gorm"
 )
