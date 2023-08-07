@@ -1,4 +1,4 @@
-package ms_domain
+package domain
 
 import (
 	"time"
