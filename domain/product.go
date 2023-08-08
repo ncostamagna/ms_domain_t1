@@ -2,10 +2,11 @@ package domain
 
 import (
 	"time"
+	
 
 	"github.com/google/uuid"
 	"gorm.io/gorm"
-	
+
 )
 
 type Product struct {
