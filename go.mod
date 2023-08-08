@@ -1,4 +1,4 @@
-module github.com/dgomezlikeyoube/ms_domain/ms_domain
+module github.com/dgomezlikeyoube/ms_domain/domain
 
 go 1.20
 
