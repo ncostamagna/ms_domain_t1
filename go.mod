@@ -1,4 +1,4 @@
-module github.com/dgomezlikeyoube/ms_domain
+module github.com/ncostamagna/ms_domain_t1
 
 go 1.20
 
